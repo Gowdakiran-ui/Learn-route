@@ -25,25 +25,6 @@ It helps users track, visualize, and analyze feedback in a structured way — tu
 - **Database Layer:** Drizzle ORM (configured but extendable)
 
 
-## 📂 Project Structure
-```
-
-CustomerFeedbackSentinel/
-│── client/                # Frontend application
-│   ├── index.html         # Entry point
-│   ├── src/
-│   │   ├── App.tsx        # Root component
-│   │   ├── main.tsx       # React entry
-│   │   └── components/    # UI components
-│
-│── attached\_assets/       # Images & static assets
-│── package.json           # Dependencies
-│── tailwind.config.ts     # TailwindCSS config
-│── vite.config.ts         # Vite config
-│── drizzle.config.ts      # ORM config
-└── tsconfig.json          # TypeScript config
-
-````
 
 ---
 
