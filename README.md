@@ -24,7 +24,6 @@ It helps users track, visualize, and analyze feedback in a structured way — tu
 - **Build Tooling:** PostCSS, Vite
 - **Database Layer:** Drizzle ORM (configured but extendable)
 
----
 
 ## 📂 Project Structure
 ```
